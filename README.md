@@ -13,7 +13,11 @@ A collection of interesting tools I like. This is very similar to the awesome sy
 * [HTTPPie](https://github.com/jakubroztocil/httpie) - A nice wrapper around curl to make it a bit more user friendly
 * [Packetbeat](http://packetbeat.com/) - Ships network traffic to logstash to visualize requests
 * [Gogs](http://gogs.io/) - A git server written in Go
+* [Keywhiz](http://square.github.io/keywhiz/) - A method of storing secrets such as private keys and passwords securely. Written in JAVA
+* [Certstrap](https://github.com/square/certstrap) - Bootstrap certs and cert requests with ease
 
 ## Slide Decks
+
+* [Config Mgmt & Service Configuration](https://t.co/WhXBl6h8sy) - Talk from @garethr about using service discovery tools and config management in harmony
 
 ## Articles
