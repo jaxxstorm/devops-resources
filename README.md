@@ -17,6 +17,8 @@ A collection of interesting tools I like. This is very similar to the awesome sy
 * [Certstrap](https://github.com/square/certstrap) - Bootstrap certs and cert requests with ease
 * [Anthracite](https://github.com/Dieterbe/anthracite) - A fully featured change management app/logger with a nice API
 * [Dashiell](http://dashiell.io/) - A websocket and NodeJS frontend for osquery and cfacter
+* [PingPong](https://github.com/keen/pingpong) - An external tool for querying web site performance. Unfortunately it's very tried to keen.io, but it's pluggable
+
 
 ## Slide Decks
 
