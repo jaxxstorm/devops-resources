@@ -16,6 +16,7 @@ A collection of interesting tools I like. This is very similar to the awesome sy
 * [Keywhiz](http://square.github.io/keywhiz/) - A method of storing secrets such as private keys and passwords securely. Written in JAVA
 * [Certstrap](https://github.com/square/certstrap) - Bootstrap certs and cert requests with ease
 * [Anthracite](https://github.com/Dieterbe/anthracite) - A fully featured change management app/logger with a nice API
+* [Dashiell](http://dashiell.io/) - A websocket and NodeJS frontend for osquery and cfacter
 
 ## Slide Decks
 
