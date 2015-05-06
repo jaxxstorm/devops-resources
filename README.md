@@ -27,3 +27,4 @@ A collection of interesting tools I like. This is very similar to the awesome sy
 ## Articles & Website
 
 * [DevOps Checklist](http://devopschecklist.com/) - A website for determining how your org is doing from an opinionated devops perspective
+* [Fortnum & Mason Deployments](http://red-badger.com/blog/2015/05/05/fortnum-mason-slack-deployments-confident-delivery/) - Interesting take on using a number of devops methods to do contious deployment
