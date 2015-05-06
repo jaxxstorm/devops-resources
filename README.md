@@ -27,12 +27,20 @@ This isn't limited to open source tools, it's designed to be a definitive list o
 
 ### Security & Encryption
 * [Certstrap](https://github.com/square/certstrap) - Bootstrap certs and cert requests with ease
+* [Conjur](http://conjur.net/) - SaaS service for managing security with a focus on automation
+* [Credstash](https://github.com/LuminalOSS/credstash) - Little python script for storing security credentials in AWS KMS using DynamoDB
+* [Duse](http://duse.io/) - A tool for sharing secrets with a restful API
 * [Keywhiz](http://square.github.io/keywhiz/) - A method of storing secrets such as private keys and passwords securely. Written in JAVA
 * [OSQuery](https://osquery.io/) - Profile your infrastructure with SQL like queries, useful for compliance, security and auditing
 * [PKI.IO](http://pki.io/) - Public key infrastruture made easy
+* [RedOctober](https://github.com/cloudflare/redoctober) - A 2 man security rule implementation for secure information
+* [Vault](https://vaultproject.io/) - A Hashicorp project for managing secrets
 
-### Service Discovery
+### Service Discovery & Configuration Storage
 * [Consul](https://consul.io/) - Service discovery in a box from hashicorp
+* [Doozerd](https://github.com/ha/doozerd) - A consistent HA distributed data store
+* [etcd](https://github.com/coreos/etcd) - Highly available key/value store for shared configuration and service discovery
+* [Zookeeper](https://zookeeper.apache.org/) - centralized service for maintaining configuration information and distributed synchronization
 
 ### Status & Availability
 * [Cachet](https://cachethq.io/) - Self hosted status page
