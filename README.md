@@ -5,14 +5,24 @@ This isn't limited to open source tools, it's designed to be a definitive list o
 ## Tools
 
 ### Chat
+
+*Chat Servers*
+* [ejabberd](https://www.ejabberd.im/) - XMPP chat server written in erlang
+* [Lets-Chat](http://sdelements.github.io/lets-chat/) - Self hosted chat solution with a responsive web interface
+
 *Desktop Chat Clients*
 * [Komanda](http://komanda.io/) - Interesting IRC client "for developers"
+
+*SaaS Chat Servers*
+* [Gitter](https://gitter.im/) - Chat for Gtihub
+* [Slack](https://slack.com/) - Collaboration and chat service
 
 *Web Chat Clients*
 * [Kaiwa](http://getkaiwa.com/) - Modern XMPP client with slackHQ like feel
 
 ### Change Management
 * [Anthracite](https://github.com/Dieterbe/anthracite) - A fully featured change management app/logger with a nice API
+* [Gonzo](https://github.com/croomes/gonzo) - A change impact console for Puppet
 
 ### HTTP Tools
 * [HTTPDiff](https://github.com/jgrahamc/httpdiff) - Perform the same request against two HTTP servers and diff the results
