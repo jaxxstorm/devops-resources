@@ -6,7 +6,7 @@ This isn't limited to open source tools, it's designed to be a definitive list o
 
 ### Chat
 *Desktop Chat Clients*
-[Komanda](http://komanda.io/) - Interesting IRC client "for developers"
+* [Komanda](http://komanda.io/) - Interesting IRC client "for developers"
 
 *Web Chat Clients*
 * [Kaiwa](http://getkaiwa.com/) - Modern XMPP client with slackHQ like feel
